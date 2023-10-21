@@ -3,6 +3,8 @@
 using namespace std;
 
 
+
+// code to put in leetcode
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -27,6 +29,7 @@ public:
     }
 };
 
+//  main function
 int main()
 {
     vector<int> a = {2,8,7,8,9};
